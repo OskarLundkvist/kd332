@@ -3,4 +3,4 @@ kd332
 
 Mina laborationsuppgifter foÌˆr Programmering foÌˆr interaktionsdesign 2
 
-//Kontrollerad av: Katarina KŠrnekull
+Kontrollerad av: Katarina KŠrnekull
